@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/em-formacao.png</file>
+        <file>imgs/raiz-quadrada.png</file>
+        <file>imgs/tema.png</file>
+        <file>imgs/modo-diurno.png</file>
+        <file>imgs/modo-noturno.png</file>
+        <file>imgs/sair.png</file>
+    </qresource>
+</RCC>
