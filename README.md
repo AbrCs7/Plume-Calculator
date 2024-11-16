@@ -32,8 +32,8 @@
 
 ## Capturas de Tela
 
-![Screenshot 1](https://github.com/AbrCs7/Plume-Calculator/raw/main/screenshots/screenshot1.png)
-![Screenshot 2](https://github.com/AbrCs7/Plume-Calculator/raw/main/screenshots/screenshot2.png)
+![Screenshot 1](https://raw.githubusercontent.com/AbrCs7/Plume-Calculator/refs/heads/main/raw/main/screenshots/screenshot1.png)
+![Screenshot 2](https://raw.githubusercontent.com/AbrCs7/Plume-Calculator/refs/heads/main/raw/main/screenshots/screenshot2.png)
 
 ## Instalação
 
