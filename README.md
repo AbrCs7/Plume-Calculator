@@ -1,6 +1,6 @@
 # Plume Calculator
 
-![Plume Calculator Logo](https://github.com/AbrCs7/Plume-Calculator/raw/main/resources/logo.png)
+![Plume Calculator Logo](https://raw.githubusercontent.com/AbrCs7/Plume-Calculator/refs/heads/main/raw/main/resources/logo.png)
 
 ### Uma calculadora científica avançada desenvolvida em Qt
 
