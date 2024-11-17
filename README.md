@@ -33,8 +33,8 @@
 ## Capturas de Tela
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbrCs7/Plume-Calculator/refs/heads/main/raw/main/screenshots/screenshot1.png" alt="Screenshot 1" width="300" style="margin-right: 100px;"/>
-  <img src="https://raw.githubusercontent.com/AbrCs7/Plume-Calculator/refs/heads/main/raw/main/screenshots/screenshot2.png" alt="Screenshot 2" width="300"/>
+  <img src="https://raw.githubusercontent.com/AbrCs7/Plume-Calculator/refs/heads/main/raw/main/resources/screenshot1.png" alt="Screenshot 1" width="300" style="margin-right: 100px;"/>
+  <img src="https://raw.githubusercontent.com/AbrCs7/Plume-Calculator/refs/heads/main/raw/main/resources/screenshot2.png" alt="Screenshot 2" width="300"/>
 </p>
 
 
